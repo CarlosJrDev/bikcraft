@@ -5,7 +5,9 @@ body {
   color: #111111;
 }
 h1,
-ul,
+h2,
+h3,
+h4 ul,
 p {
   margin: 0px;
 }
@@ -21,4 +23,7 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+img[src$=".jpg"] {
+  border-radius: 4px;
 }
