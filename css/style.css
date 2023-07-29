@@ -18,3 +18,9 @@
 
 /* TECNOLOGIA */
 @import "./home/tecnologia.css";
+
+/* PARCEIROS */
+@import "./home/parceiros.css";
+
+/* DEPOIMENTO */
+@import "./home/depoimento.css";
