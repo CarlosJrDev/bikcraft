@@ -30,3 +30,9 @@
 
 /* FOOTER */
 @import "./global/footer.css";
+
+/* Termos e uso */
+@import "./termos/termos.css";
+
+/*  Bicicletas */
+@import "./bicicletas/bicicletas.css";
