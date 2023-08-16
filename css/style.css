@@ -36,3 +36,10 @@
 
 /*  Bicicletas */
 @import "./bicicletas/bicicletas.css";
+
+/* Bicicleta */
+@import "./bicicleta/bicicleta.css";
+
+/* Vantagens */
+@import "./home/vantagens.css";
+@import "./home/perguntas.css";
