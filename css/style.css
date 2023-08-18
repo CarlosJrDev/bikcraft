@@ -43,3 +43,15 @@
 /* Vantagens */
 @import "./home/vantagens.css";
 @import "./home/perguntas.css";
+
+/* Seguro */
+@import "./bicicleta/seguro.css";
+
+/* Lojas */
+@import "./contato/lojas.css";
+
+/* Formulário */
+@import "./utilidade/formulario.css";
+
+/* Contatos */
+@import "./contato/contato.css";
