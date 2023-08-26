@@ -55,3 +55,6 @@
 
 /* Contatos */
 @import "./contato/contato.css";
+
+/* Orçamento */
+@import "./orcamento/orcamento.css";
